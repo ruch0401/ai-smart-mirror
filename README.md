@@ -24,8 +24,8 @@ Time is precious and precious things need to be saved and taken care of. Our pro
 
 ## Benefits
 
--` Interactive` : The proposed “Smart Mirror” can interact with the user giving the user
-information and updates on some topics that are asked for
+- `Interactive` : The proposed “Smart Mirror” can interact with the user giving the user
+  information and updates on some topics that are asked for
 
 - `Customizable` : The feeds and updates given by the mirror are completely customizable and depend upon the person standing in front of the mirror.
 - `Multitasking` : The artificial intelligence inbuilt in the “Smart Mirror” helps it to perform various operations such as providing updates and feeds on general topic along with doing the conventional job a normal mirror
